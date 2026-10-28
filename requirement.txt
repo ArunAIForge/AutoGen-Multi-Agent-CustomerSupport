@@ -1,0 +1,13 @@
+# Multi-Agent Framework
+pyautogen>=0.2.35,<0.3.0
+
+# Frontend UI
+streamlit>=1.35.0
+
+# Environment and Data Validation
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+
+# LLM Providers & HTTP Utilities
+openai>=1.35.0
+requests>=2.31.0
